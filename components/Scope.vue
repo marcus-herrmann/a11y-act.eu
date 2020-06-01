@@ -11,7 +11,7 @@
         <li><strong>Banking services</strong>, Service terminals and Automated Teller Machines (ATM)</li>
         <li><strong>Emergency Numbers</strong>
         </li>
-        <li><strong>Access to audiovisual media</strong>, but not audiovisual media itself - this is subject of an own EU Directive (<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1464618463840&uri=COM:2016:287:FIN">EU Directive 2010/13</a>).
+        <li><strong>Access to audiovisual media</strong>, but not audiovisual media itself - this is subject of an own EU Directive (<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32018L1808">EU Directive 2018/1808</a>).
         </li>
         <li>Services and products of the <strong>transportation sector</strong> related to air, bus, rail, and waterborne passenger transport
         </li>

@@ -5,7 +5,7 @@
 
       <p>Directive 2019/882 has the concept of "undue burden", meaning the Directive's accessibility rules apply,</p>
 
-      <ul>
+      <ul class="text-list">
         <li>…unless they would change the very nature of the product or service respectively.</li>
         <li>…unless the accessibility requirements would overburden the company financially.</li>
       </ul>

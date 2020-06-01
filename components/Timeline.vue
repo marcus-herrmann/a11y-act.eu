@@ -6,74 +6,31 @@
         <li>
           <div class="direction-r">
             <div class="flag-wrapper">
-              <time datetime="2016-12-22" class="flag">December 22, 2016</time>
+              <time datetime="2016-12-22" class="flag">June 7, 2019</time>
             </div>
             <div class="desc">
-              Directive 2016/2102 comes into effect
+              European Union formally adopted the Directive
             </div>
           </div>
         </li>
         <li>
           <div class="direction-l">
             <div class="flag-wrapper">
-              <time datetime="2017-06-12" class="flag">June 12, 2017</time>
+              <time datetime="2017-06-12" class="flag">June 28, 2022</time>
             </div>
             <div class="desc">
-              Member states of the <abbr title="European Union">EU</abbr> are conferred power to adopt national law so as to make reference to a more recent version of that technical requirements.
+              Member states of the <abbr title="European Union">EU</abbr> are obliged to transport Directive 2019/882 to respective national laway
             </div>
           </div>
         </li>
         <li>
           <div class="direction-r">
             <div class="flag-wrapper">
-              <time datetime="2018-09-23" class="flag">September 23, 2018</time>
+              <time datetime="2018-09-23" class="flag">July 28, 2025</time>
             </div>
             <div class="desc">
-              All member states must have implementation laws based on directive 2102 in place. National infrastructure
-              for supervision of compliance with Directive 2102 must be established. Office files published by public
-              sector bodies after this date must be accessible. New websites of public sector bodies must be accessible.
+              National laws must be applied by that date at the latest.
             </div>
-          </div>
-        </li>
-        <li>
-          <div class="direction-l">
-            <div class="flag-wrapper">
-              <time datetime="2018-12-23" class="flag">December 23, 2018</time>
-            </div>
-            <div class="desc">
-              Model accessibility statement will be published, technical requirements will be finalized. Standardized
-              methodology of supervision and modalities of reporting from national level to the European Commission will
-              be finalized.
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="direction-r">
-            <div class="flag-wrapper">
-              <time datetime="2019-09-23" class="flag">September 23, 2019</time>
-            </div>
-            <div class="desc">
-              Non public intranets and extranets must be accessible
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="direction-l">
-            <div class="flag-wrapper">
-              <time datetime="2020-09-23" class="flag">September 23, 2020</time>
-            </div>
-            <div class="desc">
-              Recorded time based media must be accessible. "Legacy" websites that have been published before September
-              23, 2018 must be accessible.
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="direction-r">
-            <div class="flag-wrapper">
-              <time datetime="2021-06-23" class="flag">June 23, 2021</time>
-            </div>
-            <div class="desc">Mobile apps of public sector bodies must be accessible</div>
           </div>
         </li>
       </ul>
