@@ -5,8 +5,8 @@
 
       <ul class="text-list">
         <li class="text-list">The complete title is Directive (<abbr title="European Union">EU</abbr>) 2019/882 of the European Parliament and of the Council of of 17 April 2019 on the <strong>accessibility requirements for products and services</strong>.</li>
-        <li>Compared with other parts of the world, <strong>accessibility of the private sector</strong> (USA, Canada, Japan, Norway and others) is not yet regulated. Directive 2019/882 is a first big (but incomplete) step to change that.</li>
-        <li>If you look at the EAA from a bird's eye view, it standardises regulations on the accessibility of products and services, and forces providers to <strong>develop and provide their services and products with Inclusive Design in mind.</strong></li>
+        <li>Compared with other parts of the world, <strong>accessibility of Europe's private sector</strong> (which means: companies) is not yet regulated. Directive 2019/882 is a first big step to change that.</li>
+        <li>If you look at the EAA from a bird's eye view, it standardises regulations on the accessibility of products and services, and forces providers to <strong>develop and provide their services and products with <a href="https://inclusivedesignprinciples.org/">Inclusive Design in mind</a>.</strong></li>
         <li>However, unlike the <abbr title="General Data Protection Regulation">GPDR</abbr> for example, it is a directive, not a regulation. Quote, <a href="https://en.wikipedia.org/wiki/Directive_(European_Union)">Wikipedia</a>:
 
           <blockquote>A directive is a legal act of the European Union which requires member states to achieve a
