@@ -10,7 +10,7 @@
         <li>…unless the accessibility requirements would overburden the company financially.</li>
       </ul>
 
-        <p>But that does not mean but that does not mean that the directive has major gaps in its applicability. Many companies in the European Union will be impacted by the European Accessibility Act. <strong>Only micro-enterprises, i.e. enterprises which employ fewer than 10 persons and whose annual turnover and/or annual balance sheet total does not exceed EUR 2&nbsp;million, are excluded and can reference the "undue burden exemption".</strong>
+        <p>But that does not mean the directive has major gaps in its applicability. Many companies in the European Union will be impacted by the European Accessibility Act. <strong>Only micro-enterprises, i.e. enterprises which employ fewer than 10 persons and whose annual turnover and/or annual balance sheet total does not exceed EUR 2&nbsp;million, are excluded and can reference the "undue burden exemption".</strong>
       </p>
     </div>
   </section>

@@ -19,7 +19,7 @@
               <time datetime="2017-06-12" class="flag">June 28, 2022</time>
             </div>
             <div class="desc">
-              Member states of the <abbr title="European Union">EU</abbr> are obliged to transport Directive 2019/882 to respective national laway
+              Member states of the <abbr title="European Union">EU</abbr> are obliged to transport Directive 2019/882 to respective national laws
             </div>
           </div>
         </li>
