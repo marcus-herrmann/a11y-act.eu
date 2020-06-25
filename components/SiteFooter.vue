@@ -2,7 +2,7 @@
   <footer>
     <div class="footer__inner">
       <ul class="nav-footer">
-        <li><a href="https://github.com/marcus-herrmann/directive2102">directive2102.eu on GitHub</a></li>
+        <li><a href="https://github.com/marcus-herrmann/a11y-act.eu">a11y-act.eu on GitHub</a></li>
         <li><a href="https://marcus.io/privacy-policy#english">Privacy Policy</a></li>
         <li>A project by <a href="https://marcus.io/">marcus</a></li>
         <li><a href="https://twitter.com/_marcusherrmann">Follow me on twitter</a></li>
