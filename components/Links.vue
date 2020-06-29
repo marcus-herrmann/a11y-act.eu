@@ -5,7 +5,7 @@
 
       <p>(I expect this section of the page to grow, the closer we get to the national law implementations of the EU member states.)</p>
 
-      <p><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32018L1808">The complete text of the Directive 2019/882 can be found here</a>.</p>
+      <p><a href="https://eur-lex.europa.eu/eli/dir/2019/882/oj?locale=en">The complete text of the Directive 2019/882 can be found here</a>.</p>
 
       <p>Deque, an American company specialized in web accessibility has covered both Directive 2016/2102 (dealing with the public sector) and Directive 2019/882 (dealing with the private sector) in a blog post. <a href="https://www.deque.com/blog/eu-web-accessibility-compliance-and-legislation/">You can read the article "EU Web Accessibility Compliance and Legislation" here.</a></p>
 
