@@ -26,7 +26,7 @@
         <li>
           <div class="direction-r">
             <div class="flag-wrapper">
-              <time datetime="2018-09-23" class="flag">July 28, 2025</time>
+              <time datetime="2025-06-28" class="flag">June 28, 2025</time>
             </div>
             <div class="desc">
               National laws must be applied by that date at the latest.
